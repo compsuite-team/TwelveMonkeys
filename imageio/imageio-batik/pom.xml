@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
             <artifactId>batik-svggen</artifactId>
-            <version>${batik.version}</version>
+            <version>1.12</version>
             <scope>provided</scope>
         </dependency>
 
